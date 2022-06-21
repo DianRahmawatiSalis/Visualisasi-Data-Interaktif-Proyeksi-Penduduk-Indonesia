@@ -56,6 +56,6 @@ Adapun jenis visualisasi data yang digunakan antara lain:
   </a>
 </div>
 
-_Visualisasi data interaktif tersebut data diakses [disini](https://public.tableau.com/views/ProyeksiPendudukIndonesia2030-2045/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)_
+_Visualisasi data interaktif tersebut dapat diakses [disini](https://public.tableau.com/views/ProyeksiPendudukIndonesia2030-2045/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
