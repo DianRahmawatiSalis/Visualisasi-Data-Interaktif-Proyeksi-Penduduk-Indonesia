@@ -36,22 +36,12 @@ Adapun jenis visualisasi data yang digunakan antara lain:
 * _Choropleth Map_
 
   _Choropleth Map_ digunakan untuk menampilkan data sebaran jumlah penduduk berdasarkan proyeksi yang telah dilakukan oleh BPS. 
-  <div align="center">
-  <a>
-    <img src="images/peta.png" alt="peta" width="1000" height="450">
-  </a>
-   </div>
 
 
 * Piramida penduduk 
    
    Piramida penduduk untuk menampilkan data jumlah penduduk berdasarkan kelompok umur dan jenis kelamin.
-   <div align="center">
-  <a>
-    <img src="images/piramida.png" alt="piramida" width="1000" height="400">
-  </a>
-   </div>
-
+   
 
 * _Simple text_
    
