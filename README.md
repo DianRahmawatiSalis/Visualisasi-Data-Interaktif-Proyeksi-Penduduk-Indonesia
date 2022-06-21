@@ -38,7 +38,7 @@ Adapun jenis visualisasi data yang digunakan antara lain:
   _Choropleth Map_ digunakan untuk menampilkan data sebaran jumlah penduduk berdasarkan proyeksi yang telah dilakukan oleh BPS. 
   <div align="center">
   <a>
-    <img src="images/peta.png" alt="Logo" width="1000" height="450">
+    <img src="images/peta.png" alt="peta" width="1000" height="450">
   </a>
    </div>
 
@@ -48,7 +48,7 @@ Adapun jenis visualisasi data yang digunakan antara lain:
    Piramida penduduk untuk menampilkan data jumlah penduduk berdasarkan kelompok umur dan jenis kelamin.
    <div align="center">
   <a>
-    <img src="images/piramida.png" alt="piramida" width="1000" height="1000">
+    <img src="images/piramida.png" alt="piramida" width="500" height="400">
   </a>
    </div>
 
@@ -56,18 +56,13 @@ Adapun jenis visualisasi data yang digunakan antara lain:
 * _Simple text_
    
    _Simple text_ digunakan untuk menampilkan data jumlah penduduk, jumlah kelahiran, jumlah kematian dan net _migran rate_.
-   <div align="center">
-  <a>
-    <img src="images/simple.png" alt="Logo" width="1000" height="180">
-  </a>
-   </div>
-
+   
 
 ## Tampilan Visualisasi Data Interaktif yang Dihasilkan
 
 <div align="center">
   <a>
-    <img src="images/tampilan.png" alt="Logo" width="1000" height="450">
+    <img src="images/tampilan.png" alt="tampilan" width="1000" height="450">
   </a>
 </div>
 
