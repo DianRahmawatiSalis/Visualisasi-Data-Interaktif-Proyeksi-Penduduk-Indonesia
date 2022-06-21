@@ -48,7 +48,7 @@ Adapun jenis visualisasi data yang digunakan antara lain:
    Piramida penduduk untuk menampilkan data jumlah penduduk berdasarkan kelompok umur dan jenis kelamin.
    <div align="center">
   <a>
-    <img src="images/piramida.png" alt="piramida" width="500" height="400">
+    <img src="images/piramida.png" alt="piramida" width="1000" height="400">
   </a>
    </div>
 
