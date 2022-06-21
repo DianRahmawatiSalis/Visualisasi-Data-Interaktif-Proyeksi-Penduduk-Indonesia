@@ -48,7 +48,7 @@ Adapun jenis visualisasi data yang digunakan antara lain:
    Piramida penduduk untuk menampilkan data jumlah penduduk berdasarkan kelompok umur dan jenis kelamin.
    <div align="center">
   <a>
-    <img src="images/piramida.png" alt="Logo" width="600" height="600">
+    <img src="images/piramida.png" alt="piramida" width="1000" height="1000">
   </a>
    </div>
 
@@ -58,7 +58,7 @@ Adapun jenis visualisasi data yang digunakan antara lain:
    _Simple text_ digunakan untuk menampilkan data jumlah penduduk, jumlah kelahiran, jumlah kematian dan net _migran rate_.
    <div align="center">
   <a>
-    <img src="images/simple.png" alt="Logo" width="600" height="100">
+    <img src="images/simple.png" alt="Logo" width="1000" height="180">
   </a>
    </div>
 
